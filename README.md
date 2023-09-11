@@ -2,7 +2,7 @@
 
 ## Wireframes
 
-![Wireframe](./assets/dailytarotwireframe.png)
+![Wireframe](./assets/dailytarotwireframe2.png)
 
 ## Domain Model
 
